@@ -1,0 +1,13 @@
+.sideBarBorder {
+    border-left: 2px #eee solid !important;
+}
+
+.videoDescription {
+    text-align: left !important;
+    margin-top: 20px !important;
+}
+
+.videoHeading {
+    text-align: left !important;
+    margin-top: 40px !important;
+}

@@ -1,0 +1,22 @@
+.MuiFormLabel-root {
+    font-size: 1.2rem !important;
+}
+
+.MuiInputLabel-formControl {
+    top: -15px !important;
+    left: -15px !important;
+}
+
+.MuiFormControl-marginNormal {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+}
+
+.MuiInputLabel-outlined {
+    transform: translate(18px, -10px) scale(1) !important;
+}
+
+
+.makeStyles-drawerOpen-7 {
+    width: 215px !important;
+}
